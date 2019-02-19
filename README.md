@@ -1,2 +1,2 @@
 # COGS108_Repo
-Repository for Data Science class.
+Repository for an Introduction to Data Science class at UC San Diego.
